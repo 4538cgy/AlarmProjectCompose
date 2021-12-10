@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmProjectCompose</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
